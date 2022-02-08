@@ -1,4 +1,4 @@
 
-this is A CONFLICT
+this is A CONFLICT, will last forever.
 This is my line
 
