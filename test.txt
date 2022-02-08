@@ -1,4 +1,4 @@
 
 this is A CONFLICT
-This is my line
+This is not your line
 
